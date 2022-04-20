@@ -1,0 +1,58 @@
+h1 {
+  background-color: orange;
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 45;
+}
+body,
+.container {
+  color: aliceblue;
+  background-color: rgb(230, 150, 3);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+  border: 100px solid rgb(248, 187, 95);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: rgb(235, 174, 63);
+}
+#fotoalbum {
+  background-color: aliceblue;
+  margin-left: 20px;
+  text-align: left;
+}
+h3 {
+  color: orange;
+}
+.hater {
+  background-color: aliceblue;
+}
+h2 {
+  margin-left: 40px;
+  text-align: left;
+}
+.felsorolas {
+  justify-content: flex-start;
+}
+#doboz1 {
+  box-sizing: 300px;
+  max-width: 500px;
+  margin-left: 20px;
+  width: 300px;
+  height: 100px;
+}
+#container2 {
+  background-color: rgb(248, 187, 95);
+  box-sizing: 300px;
+  max-width: 500px;
+  margin-left: 20px;
+  width: 300px;
+  height: 200px;
+}
+.kapcsolat {
+  background-image: url(./img/r2.jpg);
+  height: 400px;
+  width: 1400px;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
